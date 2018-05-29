@@ -23,5 +23,6 @@ function dec(a) {
 }
 
 function makeInt(a) {
-  return parseInt('a', 10)
+  parseInt('a', 10)
+  return (a)
 }
