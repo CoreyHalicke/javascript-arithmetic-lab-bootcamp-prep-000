@@ -23,6 +23,5 @@ function dec(a) {
 }
 
 function makeInt(a) {
-  var parseIt = parseInt('a', 10)
-  return (ParseIt)
+  return parseInt(a, 10)
 }
